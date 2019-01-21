@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MovieBOX</string>
+    <string name="customerNameHint">Enter customer\'s Name</string>
+    <string name="customerName">Customer\'s Name :</string>
+    <string name="mobileNumbeHint">Enter your Mobile Number</string>
+    <string name="mobileNumbe">Mobile Number:"</string>
+    <string name="regular">regular"</string>
+    <string name="children">children"</string>
+    <string name="newReleases">newReleases"</string>
+    <string name="payment">You have to pay "</string>
+    <string name="thanks">.....THANK YOU....."</string>
+    <string name="mobileNumint">Enter your Mobile Number</string>
+    <string name="mobileNum">Mobile Number:"</string>
+    <string name="regularMovie">regular"</string>
+    <string name="childrenMovie">children"</string>
+    <string name="newReleasesMovie">newReleases"</string>
+</resources>
